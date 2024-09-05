@@ -1,4 +1,4 @@
-  "SO_JSON_Array": [
+{  "SO_JSON_Array": [
 {
   "Sold_To": 4343,
   "Ship_To": 4343,
@@ -14,4 +14,4 @@
   "Item_Number": 2008
     }
 ]    
-
+}
