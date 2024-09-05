@@ -1,16 +1,17 @@
 {
-    "ShipTo":4343,
-    "SoldTo":4343,
-    "Branch":"          30",
-    "Qty": 4,
-    "Item": 2008
-},
-{
-    "ShipTo":4343,
-    "SoldTo":4343,
-    "Branch":"          30",
-    "Qty": 5,
-    "Item": 2008
+  "Sold_To": 4343,
+  "Ship_To": 4343,
+  "Branch": "          30",
+  "Sales_Order_Detail": [
+    {
+      "Quantity_Ordered": 7,
+      "Item_Number": 2007
+    },
+    {
+      "Quantity_Ordered": 8,
+      "Item_Number": 2008
+    },
+  ]
 }
 
 
